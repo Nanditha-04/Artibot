@@ -5,7 +5,7 @@ COMMANDS:
 					         
 TO LAUNCH WORLD IN GAZEBO:
 					   
- 1.ros2 launch artibot launch_sim.launch.py world:=/home/bala/dev_ws/src/artibot/worlds/obstacles.world
+ 1.ros2 launch artibot launch_sim.launch.py world:=/home/Username/dev_ws/src/artibot/worlds/obstacles.world
  
 TO MAP THE WORLD:
 
